@@ -1,0 +1,11 @@
+/* Target by tag element */
+h1 {
+    color: #666666;
+    font-family: sans-serif;
+}
+
+/* Target by class name */
+.main-text {
+    font-size: 16px;
+    line-height: 1.5;
+}
